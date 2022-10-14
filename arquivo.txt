@@ -1,0 +1,2 @@
+Teste de inserção de novo arquivo texto no repositório
+Primeiro vamos inserir no repo local, depois faremos push para o repo remoto
